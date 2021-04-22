@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Spexzzz
+- 👀 I’m interested in everything
+- 🌱 I’m currently on my road to being a Full-Stack Developer!
+- 💞️ I’m looking to collaborate on YouTube!
+- 📫 How to reach me ... developer@spexz.co
